@@ -5,5 +5,6 @@ int main(void){
   pritn("hahahahahshshddddddshh\n");
   print();
   print();
+  print();
   return 0;
 }
