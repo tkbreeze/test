@@ -2,6 +2,6 @@
 
 int main(void){
   print("HHHH\n");
-  pritn("hahahahahshshshh\n");
+  pritn("hahahahahshshsdjdjdjdjdjdjdjdjhh\n");
   return 0;
 }
