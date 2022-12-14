@@ -2,6 +2,7 @@
 
 int main(void){
   print("HHHH\n");
-  pritn("hahahahahshshshh\n");
+  pritn("hahahahahshshddddddshh\n");
+  print();
   return 0;
 }
